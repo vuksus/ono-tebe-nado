@@ -1,1 +1,0 @@
-https://github.com/vuksus/ono-tebe-nado
