@@ -1,1 +1,1 @@
-https://github.com/vuksus/ono-tebe-
+https://github.com/vuksus/ono-tebe-nado
