@@ -5,7 +5,7 @@
   min-height: 293px;
   background-color: white;
   color: black;
-  padding: 0 50px;
+  padding: 0 50px 5px;
 }
 
 .header__menu {
@@ -98,7 +98,7 @@
 
 .aligned-text_center {
   justify-content: center;
-  align-items: center;
+  padding-left: 25px;
 }
 
 .aligned-text_right {
@@ -160,6 +160,7 @@
   min-height: 616px;
   color: white;
   padding-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 .lots__card-list-item {
