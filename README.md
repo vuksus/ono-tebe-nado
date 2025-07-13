@@ -1,1 +1,1 @@
-https://github.com/vuksus/ono-tebe-nado-fd
+https://github.com/vuksus/ono-tebe-nado
